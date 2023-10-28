@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T16:30:38 IST" name="Default suite" finished-at="2022-06-18T16:31:24 IST" duration-ms="46495">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T16:30:38 IST" name="Default test" finished-at="2022-06-18T16:31:24 IST" duration-ms="46495">
+      <class name="com.Testng1.OpencartWithTestng">
+        <test-method is-config="true" signature="setChrome()[pri:0, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:30:31 IST" name="setChrome" finished-at="2022-06-18T16:30:38 IST" duration-ms="6834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setChrome -->
+        <test-method signature="test01()[pri:0, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:30:38 IST" name="test01" finished-at="2022-06-18T16:30:51 IST" duration-ms="12723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:1, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:30:51 IST" name="test02" finished-at="2022-06-18T16:30:57 IST" duration-ms="6399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test04()[pri:2, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:30:57 IST" name="test04" finished-at="2022-06-18T16:31:02 IST" duration-ms="4707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method signature="test03()[pri:3, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:31:02 IST" name="test03" finished-at="2022-06-18T16:31:09 IST" duration-ms="6729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method signature="test07()[pri:4, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:31:09 IST" name="test07" finished-at="2022-06-18T16:31:14 IST" duration-ms="5109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07 -->
+        <test-method signature="test06()[pri:5, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:31:14 IST" name="test06" finished-at="2022-06-18T16:31:20 IST" duration-ms="6614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method signature="test05()[pri:6, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:31:20 IST" name="test05" finished-at="2022-06-18T16:31:24 IST" duration-ms="4048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+        <test-method is-config="true" signature="closeChrome()[pri:0, instance:com.Testng1.OpencartWithTestng@475c9c31]" started-at="2022-06-18T16:31:24 IST" name="closeChrome" finished-at="2022-06-18T16:31:25 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChrome -->
+      </class> <!-- com.Testng1.OpencartWithTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
